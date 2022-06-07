@@ -7,12 +7,6 @@
 - 5'in solunda 1, sağında 6 bulunur;
 - 1'in solunda 0, sağında 3 bulunur;
 - 3'ün solunda 2, sağında 4 bulunur.
-- ![Proje Görseli]()
-
-
-
-
-
-
-
-www.patika.dev
+- Proje Görseli
+ ![Proje Görseli](binarySearchTreeResimOrnegi.png)
+#### www.patika.dev
